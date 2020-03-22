@@ -2,5 +2,9 @@
   "message-1572370119982" : {
     "message" : "Bienvenue sur la chatbox!\n",
     "pseudo" : "Cedric"
+  },
+  "message-1584892377431" : {
+    "message" : "Vous pouvez faire des tests. Amusez-vous! La BDD est quotidiennement reset ;-)\n ",
+    "pseudo" : "Cedric"
   }
 }
