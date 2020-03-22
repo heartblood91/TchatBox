@@ -20,7 +20,6 @@ class App extends Component {
 
   componentDidMount() {
     base.syncState("/", { context: this, state: "messages" });
-    console.log(this.props.match.params.pseudo);
   }
   addMessage = message => {
     const messages = { ...this.state.messages };
